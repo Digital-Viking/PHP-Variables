@@ -29,3 +29,4 @@ echo $name;
 ?>
 
 </body>
+</html>
